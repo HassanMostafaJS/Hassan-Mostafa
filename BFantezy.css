@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'BFantezy';
+    font-style: normal;
+    font-weight: 600;
+    src: local('BFantezy'), local('BFantezy'), url(BFantezy.woff) format('woff');
+}
